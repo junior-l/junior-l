@@ -1,6 +1,7 @@
 ### Oi meu nome é Junior Ribeiro
 
-- 🌱 Estudo front-end por equanto :)
+- 🌱 Estudante de front-end
+- 🎓 Formado em Design Grafico
 - 📫 Contate-me no email: shymxp@gmail.com
 
 <div align="center">
