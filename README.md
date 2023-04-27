@@ -1,6 +1,6 @@
 ### Oi meu nome é Junior Ribeiro
 
-- 🌱 Estudante de front-end
+- 🌱 Estudante de UX / UI  e conhecimento basico em HTML e CSS
 - 🎓 Formado em Design Grafico
 - 📫 Contate-me no email: shymxp@gmail.com
 
