@@ -1,6 +1,6 @@
 ### Oi meu nome é Junior Ribeiro
 
-- 🌱 Estudante de UX / UI  e conhecimento basico em HTML e CSS
+- 🌱 Estudante de UX / UI  e simpatizante de HTML e CSS
 - 🎓 Formado em Design Grafico
 - 📫 Contate-me no email: shymxp@gmail.com
 
@@ -17,7 +17,3 @@
 
   ##
   
-  <div align="center" padding="2px">
-   <a href = "mailto:shymxp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/JuniorRibeiroS" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  </div>
