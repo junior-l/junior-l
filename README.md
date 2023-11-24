@@ -2,7 +2,7 @@
 
 - 🌱 Estudante de UX / UI  e simpatizante de HTML e CSS
 - 🎓 Formado em Design Grafico
-- 📫 Contate-me no email: shymxp@gmail.com
+- 📫 Contate-me no email: juniorribeirouxd@gmail.com
 
 <div align="center">
   <a href="https://github.com/junior-l">
